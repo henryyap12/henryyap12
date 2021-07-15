@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @henryyap12
+- 👀 I’m interested in web development, image processing and others
+- 🌱 I’m currently learning React and Angular
+- 📫 How to reach me zhongheng98@hotmail.com
